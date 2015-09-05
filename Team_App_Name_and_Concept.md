@@ -7,7 +7,6 @@ title: |
 
 author: "Alcibiades Bustillo - Roberto Trespalacios"
 date: "September 5, 2015"
-output: pdf_document
 ---
 
 #Equípo 
