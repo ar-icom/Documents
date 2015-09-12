@@ -8,6 +8,7 @@ date: "September 5, 2015"
 
 Las **Redes sociales** es la forma de comunicación del siglo 21. Las redes sociales son la agrupación de individuos en grupos específicos, como las pequeñas comunidades rurales o una subdivisión barrio. Aunque las redes sociales es posible en persona, sobre todo en los lugares de trabajo, universidades y escuelas secundarias, es más popular en línea. Esto es porque a diferencia de la mayoría de las escuelas secundarias, colegios o centros de trabajo, internet está lleno de millones de personas que están buscando para conocer a otras personas. A continuación un diagrama del flujo del sistema que se estará implemetando.
 
+\centering
 ![alt text](img2.png)
 
 Una red social es la cartografía y la medición de las relaciones y los flujos entre las personas, los grupos, las organizaciones, las computadoras, las direcciones URL y otras entidades la información / conocimiento conectados. Los **nodos** de la red son las personas y los grupos, mientras que los enlaces muestran **relaciones** o flujos entre los nodos. Red social proporciona un visual y un análisis matemático de las relaciones humanas.
