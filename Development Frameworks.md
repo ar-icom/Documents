@@ -17,7 +17,6 @@ output: pdf_document
 ## Software Requirements
 
 1. PHP Framework -- CodeIgniter
-2. Application Server Frameworks -- Flask Framework (Python)
-3. DBMS -- Mysql
-4. Operation System 	-- 	Windows XP or above, Linux
-5. Brauser -- Chrome, Firefox or Safary
+2. DBMS -- Mysql
+3. Operation System 	-- 	Windows XP or above, Linux
+4. Brauser -- Chrome, Firefox or Safary
