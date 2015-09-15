@@ -7,7 +7,7 @@ output: pdf_document
 
 ## Hardware Requirements
 
-1. Processor: Intel Pentium IV 2.0 GHz and above
+1. Processor -- Intel Pentium IV 2.0 GHz and above
 2. RAM		-- 	512 MB and above
 3. Hard disk	--	80GB and above
 4. Monitor	--	CRT or LCD monitor
