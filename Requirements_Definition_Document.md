@@ -61,6 +61,6 @@ b. Software Requirements
 
 1. PHP Framework -- CodeIgniter
 2. DBMS -- Mysql
-3. Operation System 	-- 	Windows XP or above, Linux
+3. Operation System 	-- 	Windows XP or above, Linux, OSX
 4. Brauser -- Chrome, Firefox or Safary
 
